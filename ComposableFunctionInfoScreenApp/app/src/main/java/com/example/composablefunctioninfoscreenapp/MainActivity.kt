@@ -27,7 +27,7 @@ import com.example.composablefunctioninfoscreenapp.ui.theme.ComposableFunctionIn
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
+//        enableEdgeToEdge()
         setContent {
             ComposableFunctionInfoScreenAppTheme {
                 InfoScreen(modifier = Modifier.fillMaxSize())
@@ -40,9 +40,9 @@ class MainActivity : ComponentActivity() {
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
 fun InfoScreen(modifier: Modifier = Modifier.fillMaxSize()) {
-    Column(modifier = modifier,
+    Column(modifier = modifier,/*
         verticalArrangement = Arrangement.Center,
-        horizontalAlignment = Alignment.CenterHorizontally){
+        horizontalAlignment = Alignment.CenterHorizontally*/){
         Row {
             Column(
                 modifier = Modifier

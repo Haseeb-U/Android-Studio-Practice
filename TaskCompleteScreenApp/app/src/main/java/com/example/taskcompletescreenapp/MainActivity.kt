@@ -23,7 +23,7 @@ import com.example.taskcompletescreenapp.ui.theme.TaskCompleteScreenAppTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
+//        enableEdgeToEdge()
         setContent {
             TaskCompleteScreenAppTheme {
                 TaskCompleteScreen(Modifier.fillMaxSize())

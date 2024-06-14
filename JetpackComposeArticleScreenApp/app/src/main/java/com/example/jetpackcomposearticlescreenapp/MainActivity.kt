@@ -23,7 +23,7 @@ import com.example.jetpackcomposearticlescreenapp.ui.theme.JetpackComposeArticle
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
+//        enableEdgeToEdge()
         setContent {
             JetpackComposeArticleScreenAppTheme {
                 Article(modifier = Modifier
