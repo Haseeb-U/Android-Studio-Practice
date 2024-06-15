@@ -41,6 +41,7 @@ class MainActivity : ComponentActivity() {
 fun DiceWithButtonAndImage(modifier: Modifier = Modifier){
 
     var result by remember { mutableIntStateOf(1)   }
+    var x by remember { mutableIntStateOf(0)   }
     val imageResource = when(result){
         1 -> R.drawable.dice_1
         2 -> R.drawable.dice_2
@@ -61,6 +62,12 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier){
         }) {
             Text(text = stringResource(R.string.roll))
         }
+        Button(onClick = {
+            x = (1..10).random()
+        }) {
+            Text(text = "X")
+        }
+        Text(text = "Hello $x")
     }
 }
 
