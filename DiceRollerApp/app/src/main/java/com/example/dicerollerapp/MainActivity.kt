@@ -54,7 +54,7 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier){
         modifier = modifier,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Image(painter = painterResource(id = imageResource), contentDescription = "dice value $result")
+        Image(painter = painterResource(id = imageResource), contentDescription = "dice value ${result.toString()}")
         Spacer(modifier = Modifier.height(40.dp))
         Button(onClick = {
             result = (1..6).random()
