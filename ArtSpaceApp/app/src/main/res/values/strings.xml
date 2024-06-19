@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="ai_art_1">AI Art 1</string>
+    <string name="ai_art_2">AI Art 2</string>
+    <string name="ai_art_3">AI Art 3</string>
+    <string name="ai_art_4">AI Art 4</string>
+    <string name="ai_art_5">AI Art 5</string>
+</resources>
