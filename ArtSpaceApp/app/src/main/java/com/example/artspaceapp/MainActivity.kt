@@ -93,7 +93,7 @@ fun ArtSpaceApp(modifier: Modifier = Modifier.fillMaxSize()) {
     Column(
         modifier = modifier
 //            .background(color = Color.Blue)
-//            .verticalScroll(rememberScrollState())
+/*            .verticalScroll(rememberScrollState())*/
             .safeDrawingPadding()
             .padding(horizontal = 20.dp),
         horizontalAlignment = Alignment.CenterHorizontally,
