@@ -38,11 +38,12 @@ fun SuperHeroesApp(modifier: Modifier = Modifier) {
                 title = {
                     Text(
                         text = stringResource(R.string.app_name),
-                        style = MaterialTheme.typography.displayMedium,
-                        color = MaterialTheme.colorScheme.onTertiary
+                        style = MaterialTheme.typography.displayMedium
                     )
                 },
-                colors = TopAppBarDefaults.centerAlignedTopAppBarColors(MaterialTheme.colorScheme.tertiary)
+                colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
+                    containerColor = MaterialTheme.colorScheme.tertiary,
+                    titleContentColor = MaterialTheme.colorScheme.onTertiary)
             )
         }
     ) { innerPadding ->
