@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Animals Wiki</string>
+    <string name="Lion_name">Lion</string>
+    <string name="Lion_desc">Known as the "king of the jungle," lions are social big cats that live in groups called prides. They are found in Africa and parts of India.
+</string>
+    <string name="Tiger_name">Tiger</string>
+    <string name="Tiger_desc">The largest of the big cats, tigers are solitary predators with distinctive orange coats and black stripes. They primarily live in Asia.
+</string>
+    <string name="Elephant_name">Elephant</string>
+    <string name="Elephant_desc">The largest land animals, elephants are known for their intelligence, long trunks, and strong social bonds. They are found in Africa and Asia.
+</string>
+    <string name="Giraffe_name">Giraffe</string>
+    <string name="Giraffe_desc">The tallest land animals, giraffes have long necks and legs, and distinctive spotted patterns. They are native to Africa.
+</string>
+    <string name="Zebra_name">Zebra</string>
+    <string name="Zebra_desc">Known for their black and white stripes, zebras are social animals that live in herds. They are found in Africa.
+</string>
+    <string name="Gorilla_name">Gorilla</string>
+    <string name="Gorilla_desc">Large primates that live in family groups called troops, gorillas are known for their strength and gentle nature. They inhabit the forests of central Africa.
+</string>
+    <string name="Chimpanzee_name">Chimpanzee</string>
+    <string name="Chimpanzee_desc">Closely related to humans, chimpanzees are intelligent primates known for their complex social behaviors and tool use. They live in Africa.
+</string>
+    <string name="Leopard_name">Leopard</string>
+    <string name="Leopard_desc">Agile and elusive big cats, leopards have spotted coats and are skilled climbers. They are found in Africa and parts of Asia.
+</string>
+    <string name="Cheetah_name">Cheetah</string>
+    <string name="Cheetah_desc">The fastest land animals, cheetahs have slender bodies built for speed and are found in Africa and parts of Iran.
+</string>
+    <string name="Rhinoceros_name">Rhinoceros</string>
+    <string name="Rhinoceros_desc">Large, thick-skinned herbivores with one or two horns on their snouts, rhinos are found in Africa and Asia.
+</string>
+    <string name="Hippopotamus_name">Hippopotamus</string>
+    <string name="Hippopotamus_desc">Large, semi-aquatic mammals with barrel-shaped bodies, hippos are known for their aggressive behavior and are found in Africa.
+</string>
+    <string name="Crocodile_name">Crocodile</string>
+    <string name="Crocodile_desc">Large reptiles with powerful jaws, crocodiles are found in tropical regions around the world and are excellent swimmers.
+</string>
+    <string name="Alligator_name">Alligator</string>
+    <string name="Alligator_desc">Similar to crocodiles but with broader snouts, alligators are found in the southeastern United States and China.
+</string>
+    <string name="Kangaroo_name">Kangaroo</string>
+    <string name="Kangaroo_desc">Marsupials native to Australia, kangaroos are known for their powerful hind legs and hopping locomotion.
+</string>
+    <string name="Koala_name">Koala</string>
+    <string name="Koala_desc">Tree-dwelling marsupials native to Australia, koalas are known for their diet of eucalyptus leaves and slow movements.
+</string>
+    <string name="Panda_name">Panda</string>
+    <string name="Panda_desc">Large bears with distinctive black and white markings, pandas primarily eat bamboo and are native to China.
+</string>
+    <string name="GrizzlyBear_name">Grizzly Bear</string>
+    <string name="GrizzlyBear_desc">Large, brown-furred bears found in North America, grizzlies are known for their strength and are a subspecies of the brown bear.
+</string>
+    <string name="PolarBear_name">Polar Bear</string>
+    <string name="PolarBear_desc">The largest land carnivores, polar bears are well-adapted to life in the Arctic, with thick fur and a layer of fat for insulation.
+</string>
+    <string name="Wolf_name">Wolf</string>
+    <string name="Wolf_desc">Social canines that live in packs, wolves are found in various habitats across the Northern Hemisphere and are known for their hunting skills.
+</string>
+    <string name="Fox_name">Fox</string>
+    <string name="Fox_desc">Small to medium-sized canines with bushy tails and pointed ears, foxes are found worldwide and are known for their cunning nature.
+</string>
+    <string name="Deer_name">Deer</string>
+    <string name="Deer_desc">Herbivorous mammals with antlers (usually on males), deer are found in various habitats around the world.
+</string>
+    <string name="Moose_name">Moose</string>
+    <string name="Moose_desc">The largest members of the deer family, moose have long legs and large, palmate antlers. They are found in northern regions of North America and Eurasia.
+</string>
+    <string name="Eagle_name">Eagle</string>
+    <string name="Eagle_desc">Large birds of prey with powerful beaks and keen eyesight, eagles are found worldwide and are known for their hunting prowess.
+</string>
+    <string name="Owl_name">Owl</string>
+    <string name="Owl_desc">Nocturnal birds of prey with distinctive facial discs and silent flight, owls are found worldwide.
+</string>
+    <string name="Penguin_name">Penguin</string>
+    <string name="Penguin_desc">Flightless birds adapted to life in the water, penguins are primarily found in the Southern Hemisphere, especially Antarctica.
+</string>
+    <string name="Dolphin_name">Dolphin</string>
+    <string name="Dolphin_desc">Intelligent and social marine mammals known for their playful behavior and communication skills, dolphins are found in oceans worldwide.
+</string>
+    <string name="Shark_name">Shark</string>
+    <string name="Shark_desc">Diverse group of cartilaginous fish known for their sharp teeth and predatory behavior, sharks are found in oceans worldwide.
+</string>
+    <string name="Whale_name">Whale</string>
+    <string name="Whale_desc">Large marine mammals that include the largest animals on Earth, such as the blue whale, and are found in oceans worldwide.
+</string>
+    <string name="SeaTurtle_name">Sea Turtle</string>
+    <string name="SeaTurtle_desc">Marine reptiles with streamlined shells and flippers, sea turtles are found in warm and temperate seas worldwide.
+</string>
+    <string name="Octopus_name">Octopus</string>
+    <string name="Octopus_desc">Intelligent cephalopods known for their ability to change color and shape, octopuses are found in oceans worldwide.
+
+
+
+
+
+</string>
+</resources>
