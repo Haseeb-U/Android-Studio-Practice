@@ -72,6 +72,7 @@ fun AnimalCard(
         Column(
             modifier = Modifier
                 .background(backgroundColor)
+                .fillMaxWidth()
                 .padding(16.dp),
             verticalArrangement = Arrangement.spacedBy(8.dp),
             horizontalAlignment = Alignment.CenterHorizontally
