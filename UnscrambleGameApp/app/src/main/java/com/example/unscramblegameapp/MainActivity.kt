@@ -57,6 +57,5 @@ class MainActivity : ComponentActivity() {
         super.onRestart()
         Log.d("MainActivity", "onRestart called")
     }
-
-
+    
 }
